@@ -1,8 +1,5 @@
 # *GatewayToHell*
 
-<p align="center">
-  <img src="https://media.giphy.com/media/2UCt7zbmsLoCXybx6t/giphy.gif" alt="Sublime's custom image"/>
-</p>
 ![This is fine ...](https://media.giphy.com/media/2UCt7zbmsLoCXybx6t/giphy.gif)
 
 This is a repo just for managing links to every new project library, as it seems it will be more unorganised without it.
