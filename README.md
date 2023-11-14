@@ -4,6 +4,12 @@
 
 This is a repo just for managing links to every new project library, as it seems it will be more unorganised without it.
 
+Prosta i skrócona instrukcja obsługi, niebieskie nazwy projektów, na przykład "Project 1 - 14.11.2023" to linki do repozytoriów z danych dni projektowych, w ten sposób każde wersje są dostępne.
+
+Następnie, w każdym repozytorium projektowym, branch "main" to zadanie 1, a każdy kolejny branch, na przykład "Zadanie 2" odpowiada za zmianiony kod do kolejnego zadania.
+
+W ten sposób ciągłość kodu jest zachowana po wieki wieków amen. i nie trzeba szukać po rewizjach
+
 ### [Project 1 - 14.11.2023](https://github.com/Buczixo/Projekt1)
 |Ocena|Zadanie|
 |---|---|
