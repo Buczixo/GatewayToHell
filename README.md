@@ -1,7 +1,7 @@
 # *GatewayToHell*
-
-<p style="align:center"> ![This is fine ...](https://media.giphy.com/media/2UCt7zbmsLoCXybx6t/giphy.gif) </p>
-
+<p align="center">
+![This is fine ...](https://media.giphy.com/media/2UCt7zbmsLoCXybx6t/giphy.gif)
+</p>
 This is a repo just for managing links to every new project library, as it seems it will be more unorganised without it.
 
 ### [Project 1 - 14.11.2023](https://github.com/Buczixo/Projekt1)
