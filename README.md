@@ -13,7 +13,7 @@ W ten sposób ciągłość kodu jest zachowana po wieki wieków amen i nie trzeb
 ## [Project 1 - 14.11.2023](https://github.com/Buczixo/Projekt1)
 |Ocena|Zadanie|Wykonano|
 |---|---|---|
-|3.0|Jetpack + reakcja np. na przycisk itp.|☑✅|
+|3.0|Jetpack + reakcja np. na przycisk itp.|✅|
 |4.0|Jetpack (z oceny 3.0) + minimum 3 różne ekrany|✅|
 |5.0|Jetpack (z oceny 4.0) + przenoszenie danych pomiędzy ekranami|✅|
 
