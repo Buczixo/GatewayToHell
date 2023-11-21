@@ -19,5 +19,10 @@ W ten sposób ciągłość kodu jest zachowana po wieki wieków amen i nie trzeb
 
 ### Zaliczone na 5.0
 
-## [Project 2 - 21.11.2023](brak linku)
+## [Project 2 - 21.11.2023](https://github.com/Buczixo/Projekt2)
+|Ocena|Zadanie|
+|---|---|
+|3.0|odczytanie danych z sensora|
+|4.0|Sensory (z oceny 3.0) + wizualizacja|
+|5.0|aplikacja kilkuekranowa. Do każdego ekranu inny sensor + Sensory z oceny (4.0)|
 
