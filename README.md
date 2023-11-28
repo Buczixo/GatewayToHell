@@ -27,7 +27,7 @@ W ten sposób ciągłość kodu jest zachowana po wieki wieków amen i nie trzeb
 |5.0|aplikacja kilkuekranowa. Do każdego ekranu inny sensor + Sensory z oceny (4.0)|✅|
 
 
-## [Project 3 - 28.11.2023](https://github.com/Buczixo/Projekt4v2)
+## [Project 3 - 28.11.2023](https://github.com/Buczixo/Projekt4v2) -> 5.0
 projekt realizowany w grupach
 
 |Ocena|Zadanie|Wykonano|
