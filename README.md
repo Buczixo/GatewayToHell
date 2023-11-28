@@ -27,12 +27,12 @@ W ten sposób ciągłość kodu jest zachowana po wieki wieków amen i nie trzeb
 |5.0|aplikacja kilkuekranowa. Do każdego ekranu inny sensor + Sensory z oceny (4.0)|✅|
 
 
-## [Project 3 - 28.11.2023](brakLinku)
+## [Project 3 - 28.11.2023](https://github.com/Buczixo/Projekt4v2)
 projekt realizowany w grupach
 
 |Ocena|Zadanie|Wykonano|
 |---|---|---|
-|3.0|połączenie się z Firebase||
-|4.0|odczytanie danych z Firebase||
-|5.0|aplikacja wykorzystująca Firebase, zapalanie i gaszenie diody itp. ||
+|3.0|połączenie się z Firebase|✅|
+|4.0|odczytanie danych z Firebase|✅|
+|5.0|aplikacja wykorzystująca Firebase, zapalanie i gaszenie diody itp. |✅|
 
