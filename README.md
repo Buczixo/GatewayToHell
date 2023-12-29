@@ -1,6 +1,6 @@
 # *GatewayToHell*
 
-![This is fine ...](https://media.giphy.com/media/2UCt7zbmsLoCXybx6t/giphy.gif)
+![This is fine ...](https://i.imgur.com/JTcz3EF.gif)
 
 This is a repo just for managing links to every new project library, as it seems it will be more unorganised without it.
 
@@ -41,4 +41,4 @@ projekt realizowany w grupach
 Miniprojekt końcowy, polegający na zbudowaniu wybranej przez siebie aplikacji ( w moim przypadku gry w statki, albo czegoś przypominającego grę w statki)
 oraz prezentacja wyników pracy na ostatnich zajęciach.
 
-![This is fine ...](https://i.imgur.com/JTcz3EF.gif)
+![Warships](https://i.imgur.com/JTcz3EF.gif)
