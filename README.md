@@ -36,3 +36,9 @@ projekt realizowany w grupach
 |4.0|odczytanie danych z Firebase|✅|
 |5.0|aplikacja wykorzystująca Firebase, zapalanie i gaszenie diody itp. |✅|
 
+## [Project 4 - Gra w statki miniprojekt końcowy](https://github.com/Buczixo/ProjektWarships)
+
+Miniprojekt końcowy, polegający na zbudowaniu wybranej przez siebie aplikacji ( w moim przypadku gry w statki, albo czegoś przypominającego grę w statki)
+oraz prezentacja wyników pracy na ostatnich zajęciach.
+
+![This is fine ...](https://i.makeagif.com/media/11-01-2014/J_ZapD.mp4)
