@@ -41,4 +41,4 @@ projekt realizowany w grupach
 Miniprojekt końcowy, polegający na zbudowaniu wybranej przez siebie aplikacji ( w moim przypadku gry w statki, albo czegoś przypominającego grę w statki)
 oraz prezentacja wyników pracy na ostatnich zajęciach.
 
-![This is fine ...](https://i.makeagif.com/media/11-01-2014/J_ZapD.mp4)
+![This is fine ...](https://imgur.com/JTcz3EF)
